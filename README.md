@@ -2,7 +2,7 @@
 
 [![current version](https://img.shields.io/badge/current_version-1.0-green)](#Rally)
 
-This is a simple app for Android that was created as part
+This is a simple financial app for Android that was created as part
 of [Jetpack Compose pathway](https://developer.android.com/courses/pathways/compose) by Google.
 
 ## Table of contents
@@ -17,7 +17,7 @@ of [Jetpack Compose pathway](https://developer.android.com/courses/pathways/comp
 
 ## How does it work
 
-...
+The user opens the app and sees some financial data.
 
 ## Screenshots
 
@@ -25,7 +25,7 @@ of [Jetpack Compose pathway](https://developer.android.com/courses/pathways/comp
 
 At the beginning:
 
-<img src="screenshots/state_movie.gif" alt="state_movie" style="width:231px;height:500px;">
+<img src="screenshots/rally.gif" alt="rally" style="width:231px;height:500px;">
 
 ## Technologies
 
